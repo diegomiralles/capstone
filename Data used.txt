@@ -1,0 +1,5 @@
+Data for the proyect
+
+Neighborhoods of Toronto and it’s demographic can be get using webscraping on Wikipedia
+Restaurants and other venues data will be obtain using foursquare API
+
