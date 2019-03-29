@@ -1,0 +1,5 @@
+Introduction/Bussines Problem
+
+In this report will be the analysis requested for a chef of Toronto who wants to open a restaurant, he posses great knowlegde of the restaurants industry but don’t know how to choose the best place for his bussines.
+In order to accomplish the goal of choosing the best neighborhood to open a restaurant in the city of Toronto it’s necessary to perform a demographics analisis and cross that data with de availables restaurants for each neighborhood. 
+The results can be used to choose the best place to open a restaurant based on the characteristics of the people living in the neighborhood and the competition.
